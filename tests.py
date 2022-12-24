@@ -1,3 +1,5 @@
+import pytest
+
 from main import fact
 
 def test_fact0():
